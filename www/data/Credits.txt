@@ -63,7 +63,6 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 </block>
 
 <block:-1,0,10,10,100,center,Credits>
-
 This game was created with RPG Maker MV by KADOKAWA CORPORATION 
 and includes modifications to the software.
 
