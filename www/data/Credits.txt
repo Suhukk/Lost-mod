@@ -42,7 +42,6 @@ Music from https://www.zapsplat.com
 </block>
 
 <block:-1,0,10,10,100,center,Credits>
-
 \c[2]Sound effects
 
 KOU-G
@@ -56,7 +55,6 @@ Additional sound effects from https://www.zapsplat.com/
 
 
 <block:-1,0,10,10,100,center,Credits>
-
 \c[2]Font
 
 Copyright 2016 The Faustina Project Authors (omnibus.type@gmail.com)
