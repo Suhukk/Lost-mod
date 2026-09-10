@@ -37,7 +37,7 @@ LANGDATA{
 		"Run Speed": "Run Speed", 
 		"Volume BGM": "Volume BGM", 
 		"Volume SFX": "Volume SFX", 
-		"Vision Room": "Vision Room", 
+		"Vision Room": "Vision Room",
 		"On": "On",
 		"Off": "Off",
 		"Slow": "Slow", 
@@ -74,6 +74,11 @@ LANGDATA{
 		"PurPlushie": "Purple Plushie",
 		"GreenMark": "Green marker",
 		"RedMark": "Red marker",
+		"Dishes": "Dishes",
+		"Cup": "Cup",
+		"Tea": "Crappy tea",
+		"Teathing": "Tea stuff",
+		"Rag": "Rag",
 		"9SqCqTYF": "Green Plushie",
 		"LGFhZlTS": "Pink Plushie",
 		"wSvQJJD6": "Yellow Plushie",
@@ -89,6 +94,7 @@ LANGDATA{
 		"tm4FZR2h": "Cultist",
 		"LwvlGfpk": "? ? ?",
 		"YEac5EYe": "Nina",
+		"bgX5oaL0": "??????????",
 		"yMpHZNHf": "____",
 		"QB8rMQ1P": "Leader",
 		"S78FX5bH": "Dad",
@@ -102,8 +108,14 @@ LANGDATA{
 		"G3SVlO3J": "Neighbour",
 		"bZck353s": "Who cares",
 		"KQO2siYT": "Andyrew",
+		"bSeA4KTp": "News",
 		"Vb47zIju": "Neighbour?",
 		"7tjM3Z0X": "Pharmacist",
+		"mRz3H54O": "Hag",
+		"sFxUD6mc": "Brat",
+		"GH8F8Eqk": "Teacher",
+		"epMfEG0m": "Friend A",
+		"R8W8RWtq": "Friend B",
 		"2hBABtwU": "sun",
 		"3iJlc0al": "moon",
 		"ME2A5D9k": "ugly",
@@ -123,8 +135,8 @@ LANGDATA{
 		"4UoBSqmP": "I'm done with that...",
 		"12zl1zkW": "Fine, bring me back.",
 		"8uTQ7Ycp": "Nah, I'm fine.",
-		"ytiQH082": "Home",
-		"Kz048hKV": "Parking",
+		"ytiQH082": "House",
+		"Kz048hKV": "School",
 		"TcVnq0ER": "Bus stop",
 		"7Ejs1NHG": "Warehouse",
 		"vcPO95Dz": "Who cares, it's not real anyway.",
@@ -141,7 +153,17 @@ LANGDATA{
 		"7LP5Ya1z": "Yep.",
 		"pdn71n6K": "I already have one.",
 		"DDrX5X06": "Yes",
-		"05mkWnHf": "No"
+		"05mkWnHf": "No",
+		"RMsB0Beo": "One",
+		"uG97lYN6": "Two",
+		"PvO8xmQX": "Three",
+		"DDGJ8AjE": "Try to talk",
+		"rbZSP9N6": "Do it hard way",
+		"1": "Take 20 card",
+		"2": "Take 80 card",
+		"3": "Take 60 card",
+		"4": "Take 40 card",
+		"5": "Take 100 card"
 	},
 	"linesLUT": {
 		"7er97cMc": [
@@ -260,7 +282,7 @@ LANGDATA{
 			"You can't lie here all day."
 		],
 		"Oc9JzXnN": [
-			"Your sister's probably awoke. So you should be too."
+			"Your sister's probably awake. So you should be too."
 		],
 		"0A2pI7Jk": [
 			"Find your sister."
@@ -454,7 +476,7 @@ LANGDATA{
 			"\"Opinions, dear! I think it's pretty tasty.\""
 		],
 		"Rg75lelm": [
-			"\"Do you really cook something normal right now?..\""
+			"\"Are you really cooking something normal right now?..\""
 		],
 		"gWU7TYgw": [
 			"\"Pffff hahahahah!!\""
@@ -508,7 +530,7 @@ LANGDATA{
 			"\"It was funny since I was pretty sober.\""
 		],
 		"ui5gZyVM": [
-			"\"Just because you drank less than me ",
+			"\"Just because you drank less ",
 			"doesn't mean you're better at drinking.\""
 		],
 		"jNWNn43l": [
@@ -525,7 +547,7 @@ LANGDATA{
 			"\"Why did you even check it?\""
 		],
  		"FZRVt9xF": [
-			"\"Because your anxious ass didn't shut up ",
+			"\"Because your anxious ass couldn't shut up ",
 			"about us getting in trouble.\""
 		],
 		"FCp891Cg": [
@@ -536,7 +558,7 @@ LANGDATA{
 		],
 		"507rEyfj": [
 			"\"You can praise me after breakfast. ",
-			"Go take the pills, lightweight.\""
+			"Go take the meds, lightweight.\""
 		], 
 		"iT3rwHP7": [
 			"\"You want me to lead you there by hand?\""
@@ -1098,7 +1120,7 @@ LANGDATA{
 			"\"Thanks for the help, by the way!\""
 		],
 		"6R76SVQz": [
-			"You're searching for a pill again."
+			"You're searching for the meds again."
 		],
 		"T5Fmt0az": [
 			"",
@@ -1346,7 +1368,7 @@ LANGDATA{
 			"\"Oh yeah, more of it, brain.\""
 		],
 		"XXg1xJTp": [
-			"There's candles. But this soul is in the way."
+			"There are candles. But this soul is in the way."
 		],
 		"LhZ4cQpx": [
 			"They don't pay attention to you. As always."
@@ -1613,11 +1635,11 @@ LANGDATA{
 			"\"That's all I saw... Nothing more.\""
 		],
 		"4L223gao": [
-			"(You wanted to ask did it mean you'll die)"
+			"You wanted to ask did it mean you'll die"
 		],
 		"F3prulq6": [
-			"(But it's not that bad of a possibility, ",
-			"so you decided to not)."
+			"But it's not that bad of a possibility, ",
+			"so you decided to not."
 		], 
 		"OFxXn463": [
 			"\"I think you shouldn't leave the house for some time...\""
@@ -1774,7 +1796,7 @@ LANGDATA{
 			"\"This guy seems familiar.\""
 		],
 		"kvP6cUk9": [
-			"\"Thanks for inviting me for this great show.\""
+			"\"Thanks for inviting me to this great show.\""
 		], 
 		"uGeWKn90": [
 			"\"I'd love to meet the contestants at ",
@@ -1946,7 +1968,7 @@ LANGDATA{
 		],
 
 		"gLNq6G23": [
-			"\"Anyway. How about I go to check on our ",
+			"\"Anyway. How about I go and check on our ",
 			"potential tickets to the best life?\""
 		], 
 		"2kPvp3SL": [
@@ -2022,7 +2044,7 @@ LANGDATA{
 			"Two conditions!\""
 		],
 		"eB3OpfjM": [
-			"\"Let me guess. 'Don't glare at other women'?\""
+			"\"Let me guess. 'Don't leer on other women'?\""
 		], 
 		"OaRDOU3i": [
 			"\"Yes. And drink a pill before you go.\""
@@ -2041,7 +2063,7 @@ LANGDATA{
 			"\"See? I'm taking care of you.\""
 		],
 		"Zq6Liyma": [
-			"\"But wait. How can we be sure that the neighbours ",
+			"\"But wait. How can we be sure the neighbours ",
 			"won't call the police? Just in case? \""
 		], 
 		"0DLkbCvW": [
@@ -2509,13 +2531,13 @@ LANGDATA{
 			"Does it?"
 		],
 		"vaEI03ad": [
-			"\"Does it does it does it does it does it?\""
+			"Does it does it does it does it does it?"
 		], 
 		"b50KBOhm": [
-			"\"Do you blame yourself?\""
+			"\"Do you think it'll ease the blame?\""
 		],
 		"KjKcF2Pf": [
-			"\"If you don't, I will.\""
+			"\"If you blame yourself at all.\""
 		],
 		"Hff7aSJk": [
 			"\"Shit, am I really going insane...\""
@@ -2621,13 +2643,13 @@ LANGDATA{
 			"\"Glad we have an opportunity to meet again.\""
 		],
 		"r3jmXgvY": [
-			"\"I hope your pills will help you to see more.\""
+			"\"I hope your medicine will help you to see more.\""
 		],
 		"Xf3IfyS6": [
 			"\"Because otherwise you'll stay blind.\""
 		],
 		"NKcuu97Q": [
-			"\"And probably not so alive.\""
+			"\"And not really alive.\""
 		], 
 		"s3QHTqAb": [
 			"\"............................\""
@@ -2826,7 +2848,7 @@ LANGDATA{
 			"\"But count me in if you're into it.\""
 		],
 		"owBjPxs3": [
-			"\"And please without alcohol.\""
+			"\"And please without booze.\""
 		],
 		"ovCz4bJJ": [
 			"\"Unexpected to hear that from you.\""
@@ -2926,7 +2948,7 @@ LANGDATA{
 			"Was it really a nightmare? You saw her right here."
 		],
 		"cZDPOP7e": [
-			"Maybe the pills have this effect?"
+			"Maybe the meds have this effect?"
 		],
 		"y4fFNtok": [
 			"Maybe you bought cheap alcohol?"
@@ -3017,7 +3039,7 @@ LANGDATA{
 			"\"No, wait..\""
 		],
 		"LuiBka8C": [
-			"\"You appear only when I drink pills.\""
+			"\"You appear only when I drink the meds.\""
 		],
 		"aVfgpM5J": [
 			"\"What are you?\""
@@ -3038,7 +3060,7 @@ LANGDATA{
 			"\"Nah, it'd just be quicker.\""
 		],
 		"GuUhJm2e": [
-			"\"But I want to make it longer. ",
+			"\"But I want to prolong the moment. ",
 			"Quick things are not enough.\""
 		],
 		"cJg7W3uQ": [
@@ -3078,7 +3100,7 @@ LANGDATA{
 			"Wow, you're really stupid!"
 		],
 		"0JtAAJd6": [
-			"A dumbass ending!!!"
+			"A DUMBASS END!!!"
 		],
 		"ueWEJeX6": [
 			"Congratulations for forgetting a girl's name!"
@@ -3105,14 +3127,14 @@ LANGDATA{
 			"\"But you proved you're still a smart guy.\""
 		],
 		"NQnPW7py": [
-			"\"Anyway, where's Ashley.\""
+			"\"Anyway, where's Ashley?\""
 		], 
 		"LwYn1o1m": [
 			"\"What do you need her for?\""
 		],
 		"xNxoI83S": [
-			"\"To take revenge.",
-			"She deserves to pay for everything!\""
+			"\"As if you don't know.",
+			"She deserves to pay.\""
 		],
 		"47nM0Xl9": [
 			"\"You won't take her.\""
@@ -3122,7 +3144,7 @@ LANGDATA{
 			"She's probably already dead.\""
 		],
 		"Nk5HYR2w": [
-			"\"And you think I'll believe in it!?\""
+			"\"And you think I'll believe in it?\""
 		], 
 		"kTNYz1Db": [
 			"\"But fine, I'll take you first!\""
@@ -3148,7 +3170,7 @@ LANGDATA{
 		],
 		"Ws4cQFU8": [
 			"",
-			"\"It's not her who got me here. It's the mistake we made.\""
+			"\"Do I even deserve it for some mistake I made long time ago?\""
 		], 
 		"HvdJtZ4i": [
 			"",
@@ -3220,7 +3242,7 @@ LANGDATA{
 			"Told ya. Idiot."
 		], 
 		"foAtR9KR": [
-			"Bad end, you were eaten by a box!"
+			"EATEN BY A BOX END!"
 		],
 		"Vqr6xWfV": [
 			"Will you listen better?"
@@ -3309,7 +3331,7 @@ LANGDATA{
 			"\"Yes, but..\""
 		],
 		"lw99V8AC": [
-			"\"No buts! You.. You liar!\""
+			"\"No buts! You.. You're a liar!\""
 		], 
 		"HcBt6vZM": [
 			"\"..............\""
@@ -3405,10 +3427,11 @@ LANGDATA{
 			"You head straight there!"
 		],
 		"PoTXLzj9": [
-			"Parking sounds like a good hiding spot."
+			"Even if she doesn't like school,",
+			"she still could've gone there."
 		],
 		"4QcowWQm": [
-			"And it's near your house so she knows the place."
+			"And it's good for hiding."
 		],
 		"tFU4R1Xb": [
 			"Bus stop... She wouldn't catch a bus, right?"
@@ -3478,7 +3501,7 @@ LANGDATA{
 			"\"Ugh, I won't tell you more if you keep yelling.\""
 		],
 		"GrT1CxpX": [
-			"\"Call school staff if you have any problems, ",
+			"\"Call the school staff if you have any problems, ",
 			"I \\fi can't \\fr\\c[6] help you.\""
 		],
 		"iJ4nAq0Z": [
@@ -3631,6 +3654,1242 @@ LANGDATA{
 		"aLU10x2k": [
 			"\"She’s not here... Damn.\""
 		],
+		"9IyGV1Hn": [
+			"\"And in today's program we want to announce!\""
+		],
+		"deMK93J2": [
+			"\". . .\""
+		],
+		"tooB0gvA": [
+			"\"The name of the murderer of that poor girl Nina!\""
+		],
+		"WWIzdd4W": [
+			"\"......\""
+		],
+		"pP3yLsxw": [
+			"\"Andrew Graves!\""
+		],
+		"5oDlzc5p": [
+			"\"Was it his fault? Of course it was!\""
+		],
+		"fN9Bz1CF": [
+			"\"It'S ALl yOUr FauLT!\""
+		],
+		"nfTVs82L": [
+			"\"iT's alL YouR fAUlt!\""
+		],
+		"2Fi9fE7b": [
+			"\"It'S alL yO--\""
+		],
+		"5Ir4Btos": [
+			"\"What the hell is all this noise?!\""
+		],
+		"EnSd4mmp": [
+			"\"(Oh crap..)\""
+		],
+		"LRn8Nq5v": [
+			"\"WHAT THE--?\""
+		],
+		"nbIUkP4w": [
+			"\"Andrew!!\""
+		],
+		"jHbnKS81": [
+			"\"This tv costs more than your fucking life!\""
+		],
+		"szqnZPa8": [
+			"\"What the hell did you do!?\""
+		],
+		"roCd7cN4": [
+			"\"What happened..\""
+		],
+		"Ibyxx4jC": [
+			"\"Andrew broke the tv!\""
+		],
+		"CrDha7KW": [
+			"\"Oh no, it's so expensive...\""
+		],
+		"Fq2WMbNa": [
+			"\"Why did I give birth to such a stupid brat..\""
+		],
+		"qu4XaYzU": [
+			"\"It's not the end of the world, it's just a dream.\""
+		],
+		"AIIhIal2": [
+			"\"I guess you don't know the concept of a 'job'.\""
+		],
+		"yxj7n5AY": [
+			"\"And this is why you have zero appreciation for things.\""
+		],
+		"W88TTWQa": [
+			"\"Argh, can you do something worthy for once!!?\""
+		],
+		"nZMk3Fua": [
+			"\"Honey, do you think it's fixable?...\""
+		],
+		"Um21JWho": [
+			"\"I have no idea, but it's better be!\""
+		],
+		"XouL5I6J": [
+			"\"Go wash the dishes and get rid of this mess.\""
+		],
+		"q29kwyDu": [
+			"\"At least try to be useful for all the ",
+			"shit I do for this family.\""
+		],
+		"DXUwzd93": [
+			"\"I don't have time for it, I need to-\""
+		],
+		"6UtAwXt4": [
+			"\"NOW!!\""
+		],
+		"Pu6VT9Fg": [
+			"\".....\""
+		],
+		"lODY01Hx": [
+			"\"Ugh, thanks for another headache, ",
+			"guess I can't have anything good even on my day off!\""
+		],
+		"Mvy0d2El": [
+			"\"It's okay, dear. Let's get you to bed..\""
+		],
+		"WQ4qdH63": [
+			"\"Anders, could you make your mother some tea?\""
+		],
+		"sL1n4Gk8": [
+			"\"Why? Can't you do it yourself?\""
+		],
+		"F92Ivfru": [
+			"\"Don't talk to your father like that, ",
+			"you ungrateful piece of shit.\""
+		],
+		"Vu020fzA": [
+			"\"Honey, calm down, let's go, let's go..\""
+		],
+		"nCA6tENd": [
+			"Those memories were buried inside ",
+			"of your head a long time ago."
+		],
+		"ts3BhgzQ": [
+			"Along with the bodies of these people ",
+			"in the bottom of the ocean."
+		],
+		"tpWO8pbk": [
+			"It doesn't matter. ",
+			"Just play your good boy role one more time."
+		],
+		"bEC9RGoR": [
+			"You never grew out of ",
+			"being a walking disappointment anyway."
+		],
+		"pA882tFm": [
+			"Get lost."
+		],
+		"W3Ci2FdE": [
+			"Ah, but you can't go away before ",
+			"you finish all the requests!"
+		],
+		"3AnlVuA3": [
+			"",
+			"Got the cleaver!"
+		],
+		"yIoYEn5G": [
+			".....Oh, it's a lot of work."
+		],
+		"WlbI2LRo": [
+			"",
+			"Got the dishes!"
+		],
+		"vu76DAH2": [
+			"Good boy."
+		],
+		"4sEv8oNE": [
+			"You decided it's not worth your time.",
+			"So just leave it like this."
+		],
+		"78vkcRJ0": [
+			"You pour some hot water into the cup"
+		],
+		"PRBo8t9x": [
+			"",
+			"Got the cup!"
+		],
+		"5ukevkDB": [
+			"There's something interesting in the cupboards."
+		],
+		"a2V0qcBI": [
+			"",
+			"Got tea bags and sugar!"
+		],
+		"l5VTPxF0": [
+			"You add one tea bag into the cup."
+		],
+		"1LCt540y": [
+			"How many spoons of sugar will you add?"
+		],
+		"xm4UKMMC": [
+			"WRONG! Too much sugar!"
+		],
+		"l8Y4ogAz": [
+			"Your bitter mother doesn't like that!"
+		],
+		"3b1jkYsJ": [
+			"There you go, \\fi Andy \\fr\\"
+		],
+		"FdDJK1jU": [
+			"",
+			"Got the crappy tea!"
+		],
+		"XmriY8g7": [
+			"The desire to spit in it is crazy."
+		],
+		"7gX2LQlZ": [
+			"You place the tea on the table."
+		],
+		"FLz9ZENH": [
+			"Huh? What's that?"
+		],
+		"Y9jLR8RO": [
+			"..............."
+		],
+		"FmPq7eUu": [
+			"Well, all is done. ",
+			"Are you proud of yourself?"
+		],
+		"Ehd3bN1M": [
+			"....If you are, it's not for long."
+		],
+		"3I1cw2hs": [
+			"\"Can't you do anything quietly?\""
+		],
+		"H3N8aN0p": [
+			"\"....I wasn't that loud.\""
+		],
+		"5VihmjY5": [
+			"\"Oh, such a big mouth we have here!\""
+		],
+		"L8efV73U": [
+			"\"What? You want me to hit you?\""
+		],
+		"bI0wGj4B": [
+			"\"Just so you know, many parents don't hesitate to do so.\""
+		],
+		"PGkIe0a6": [
+			"\"When their kid is an ungrateful fuck.\""
+		],
+		"xlN528ht": [
+			"\"I finished everything you asked.\""
+		],
+		"geNj2N8M": [
+			"\"So what now? You expect praise?\""
+		],
+		"i9v8Ddix": [
+			"\"I do much more every goddamn day!\""
+		],
+		"rlGVf6vJ": [
+			"\"You live in my house and eat my food.\""
+		],
+		"D4wVrS8k": [
+			"\"The minimum you can do is be quiet.\""
+		],
+		"hM8afaBf": [
+			"\"(Right. It's never enough anyway.)\""
+		],
+		"tPW6xft6": [
+			"You don't listen to your mother cursing your entire existence."
+		],
+		"Zkh7q9QU": [
+			"Sweet old times they say.",
+			"'Carefree childhood'."
+		],
+		"RYMEM2rg": [
+			"And still no Ashley."
+		],
+		"kS66Qj2H": [
+			"\"Get lost!\""
+		],
+		"6n0ZsZq1": [
+			"\"Don't you see I'm busy?\""
+		],
+		"jn0uQ5K5": [
+			"\"Um.. Busy with what?\""
+		],
+		"8NJ40aIU": [
+			"\"Painting!\""
+		],
+		"VTyBo94r": [
+			"\"That's just... Vandalism.\""
+		],
+		"i4QLZzJv": [
+			"\"You don't understand anything, so go away!\""
+		],
+		"5Q1Kb7VG": [
+			"\"(My nightmare is being locked up with two Leyleys?)\""
+		],
+		"6TccWmri": [
+			"\"Here you go again.\""
+		],
+		"4y4AhXBH": [
+			"\"Can't kids these days do something useful instead of this?\""
+		],
+		"vtG82l0t": [
+			"\"Nobody asked for your opinion, witch!\""
+		],
+		"bO8SN5r7": [
+			"\"(Should I run away?)\""
+		],
+		"nX9BR8tr": [
+			"\"I'm definitely writing a report about you two.\""
+		],
+		"0Dg2yj7M": [
+			"\"Huh?? I haven't done anything!\""
+		],
+		"7SfqcDMt": [
+			"\"Doesn't look like it.\""
+		],
+		"EpiWhJR7": [
+			"\"Hey, no need for reports!\""
+		],
+		"J3FGh3Rg": [
+			"\"Such a sad view. ",
+			"Bad families never change.\""
+		],
+		"26SREl6p": [
+			"\"No no no, my parents are gonna kill me..\""
+		],
+		"zkqzG83o": [
+			"\"(Usually reports would lead to other neighbours involved...",
+			"Or parents.....)\""
+		],
+		"xfM2CKeH": [
+			"\"(I'll never find Leyley if I keep ",
+			"wasting time on a crap like this...\""
+		],
+		"Ov7908uP": [
+			"\"W-well, it was all him!\""
+		],
+		"temC54O6": [
+			"\"????\""
+		],
+		"ECSrJ1hH": [
+			"\"She'll write a report about you, ",
+			"if you don't do anything!\""
+		],
+		"skip": [
+			" "
+		],
+		"qGE9hvQ4": [
+			"It doesn't worth your sanity."
+		],
+		"n2ObkSAF": [
+			"\"Sorry, it was a big misunderstanding.\""
+		],
+		"Z4UWS5Vv": [
+			"\"I wasn't involved in this... Situation.\""
+		],
+		"Bv1nsoBr": [
+			"\"But I'll quickly get rid of the mess, ",
+			"so you won't have to write any reports.\""
+		],
+		"q8xIl2ao": [
+			"\"Your apologies won't help you.\""
+		],
+		"V55xbjVj": [
+			"\"....................\""
+		],
+		"Rhcs1Iub": [
+			"\"Haven't your mother taught you to not do that?\""
+		],
+		"ZXV4mmKd": [
+			"\"Can you please not draw on the walls there?\""
+		],
+		"1AE0FinE": [
+			"\"And where am I supposed to draw then??\""
+		],
+		"G8vKMYqK": [
+			"\"On a paper?\""
+		],
+		"pW8w5Nq1": [
+			"\"Booooriiing.\""
+		],
+		"Cieqt2lJ": [
+			"\"So you want your parents to know what ",
+			"you're doing and then get grounded?\""
+		],
+		"B6FrqoPv": [
+			"\"...\""
+		],
+		"HU6QBAiG": [
+			"\"No, but..\""
+		],
+		"D96ZoOmq": [
+			"\"She's gonna do it to both of us ",
+			"actually, not just me.\""
+		],
+		"FGHhkp2l": [
+			"\"Huh??? I thought she’s blaming only you!\""
+		],
+		"7AbH6xPC": [
+			"\"Apparently no.\""
+		],
+		"XhqF2Q95": [
+			"\"So you better stop and get lost.\""
+		],
+		"JlUx7NTN": [
+			"\"Hmph! Fiiiine fine, I'll go away.\""
+		],
+		"8tAv7iXP": [
+			"\"But what abo--\""
+		],
+		"BzEWOEU4": [
+			"\"*sigh*\""
+		],
+		"JqK58cT1": [
+			"You don't have anything to clean it up."
+		],
+		"2zHONG4a": [
+			"\"What are you looking at? ",
+			"Am I the one who should clean your mess?\""
+		],
+		"atQaTA0b": [
+			"\"(It's not even MY mess.)\""
+		],
+		"W7gFxl4r": [
+			"",
+			"Got a rag!"
+		],
+		"mSE7XKrT": [
+			"\"There. Done. You won't write anything I guess?\""
+		],
+		"XQknw2AU": [
+			"\"Only this time I won't.\""
+		],
+		"FnvvXkj6": [
+			"\"... Have you seen my sister maybe?\""
+		],
+		"pT0iVm4a": [
+			"She walked away without a word."
+		],
+		"mPwp4bDP": [
+			"You just need some time to think."
+		],
+		"U4YUwUTY": [
+			"\"Well she won't write a report ",
+			"if you just clean the wall.\""
+		],
+		"wm7zcXAh": [
+			"\"Oh, but it's not mi--\""
+		],
+		"PSzO91hM": [
+			"\"......???\""
+		],
+		"5O7ydhOk": [
+			"\"Did I make myself clear?\""
+		],
+		"xjlZDCW2": [
+			"\"There's no way she didn't--\""
+		],
+		"VH4O4kH8": [
+			"You hit her one more time."
+		],
+		"xdQS7zTB": [
+			"Until she cooperates."
+		],
+		"Eayy3prC": [
+			"\"Okay okay, I'll clean it, I'll clean it!..\""
+		],
+		"GX6YHa0b": [
+			"All done! What a good person you are."
+		],
+		"e9pAMTvI": [
+			"Right?"
+		],
+		"Mbtpv2hK": [
+			"\"It's cleaned...\""
+		],
+		"oC0urHSk": [
+			"\"Finally something good from you.\""
+		],
+		"2KCuG5vQ": [
+			"She walks away, pretending she ",
+			"didn't see anything weird."
+		],
+		"MZ8VjkTg": [
+			"Of course it always ends like this."
+		],
+		"Simg7HUI": [
+			"You're just a good boy, right?"
+		],
+		"z5MIKT8z": [
+			"To everyone around you."
+		],
+		"0wORyL6I": [
+			"A good Andy."
+		],
+		"TCdqL96C": [
+			"Good Andy to everyone but..."
+		],
+		"Yn2V6asn": [
+			"You don't even feel bad."
+		],
+		"Xb7sFCJm": [
+			"It isn't real, so what's the point?"
+		],
+		"dPSB2XFy": [
+			"And it was on her to get on your nerves."
+		],
+		"3UwewaYl": [
+			"She deserved it."
+		],
+		"Q6sarxip": [
+			"..... She deserved it."
+		],
+		"zvb2PQf4": [
+			"No flush."
+		],
+		"YUlxN5GA": [
+			"\"What the fuck?\""
+		],
+		"Noa6UQRc": [
+			"\"Is this?...\""
+		],
+		"b28Jt43t": [
+			"\"WHAT DO YOU MEAN YOU DON'T KNOW??\""
+		],
+		"tGRu7k1T": [
+			"\"Listen, I know what it looks like.\""
+		],
+		"BnI8jOo7": [
+			"\"But we already asked other kids ",
+			"and they don't know anything.\""
+		],
+		"nlM9MP5N": [
+			"\"Nobody saw your daughter---\""
+		],
+		"FzVj3TDl": [
+			"\"But she was going to study with one of your students!\""
+		],
+		"H7BP2pbi": [
+			"\"Her parents said she didn't come.\""
+		],
+		"aHvQo73O": [
+			"\"She could've gone here instead, ",
+			"she could've gone to someone else.\""
+		],
+		"Cx4EojxS": [
+			"\"What do you expect me to do about it?\""
+		],
+		"Vjmtj7lt": [
+			"\"Get over it already.\""
+		],
+		"NFZgH9Wl": [
+			"\"Other students got really scared by the police investigation.\""
+		],
+		"TO9qGbS9": [
+			"\"They're going through a lot right now ",
+			"and you're a grown woman.\""
+		],
+		"iglA6DEz": [
+			"\"Your daughter is probably dead or kidnapped by a criminal.\""
+		],
+		"Cthf1RHR": [
+			"\"NO, THERE'S NO WAY.\""
+		],
+		"6VVALQbn": [
+			"\"You should've taught her to not trust random killers.\""
+		],
+		"Wti6clxC": [
+			"\"This must be on you.\""
+		],
+		"GEVUXvX3": [
+			"\"..........\""
+		],
+		"TA96bY5F": [
+			"There's nothing interesting."
+		],
+		"QGHo9yao": [
+			"You sure you wanna go there?"
+		],
+		"4Rpe6gwk": [
+			"Okay, stubborn kid."
+		],
+		"xVd6Mz4W": [
+			"\"Oh, Andrew, you're here!\""
+		],
+		"7FZakooo": [
+			"\"We thought you got lost.\""
+		],
+		"0lyU7ChT": [
+			"\"Yeah, not cool to leave so suddenly!\""
+		],
+		"J9DHtaTd": [
+			"\"Ah... Sorry, guys?\""
+		],
+		"00Iu3O1n": [
+			"\"It's fine, don't overthink it.\""
+		],
+		"C2PeW1Nx": [
+			"\"Wanna play Magical Magic cards of Magic with us?\""
+		],
+		"TlTjYk1O": [
+			"\"Eh.. Sounds cool, but I don't have any cards.\""
+		],
+		"eT5qyG5e": [
+			"\"Have you seen Le- Ashley maybe?\""
+		],
+		"zlW5N421": [
+			"\"Huh, why would we?\""
+		],
+		"KNiELeM8": [
+			"\"Maybe she's in the detention office as always?\""
+		],
+		"iE12vpPh": [
+			"\"I doubt it...\""
+		],
+		"l6Y76h3B": [
+			"\"I wouldn't be!\""
+		],
+		"0HGrYeIe": [
+			"\"Actually we could help you seek for her.\""
+		],
+		"EeF8Inc6": [
+			"\"Huh? Really?\""
+		],
+		"S5onypHu": [
+			"\"But only if you outplay me in cards!\""
+		],
+		"Hz0YdE1V": [
+			"\"(Shit.)\""
+		],
+		"GQw7a69q": [
+			"\"Ah, man, no..\""
+		],
+		"6RYqJ1oD": [
+			"\"I forgot I haven't done my homework.\""
+		],
+		"0FS0k5tG": [
+			"\"Sorry, can't play, guys.\""
+		],
+		"Q0Qs3QNj": [
+			"\"Um, maybe I could take your cards then?\""
+		],
+		"Lbj9ekio": [
+			"\"If you're busy?\""
+		],
+		"cRwppRg2": [
+			"\"Hmmmmmm....\""
+		],
+		"9XaS0vaF": [
+			"\"Okay, fair enough.\""
+		],
+		"T8H1zAC6": [
+			"\"Hey, Andrew..\""
+		],
+		"Tdif7N0t": [
+			"\"What?\""
+		],
+		"NI3n9U1X": [
+			"\"Could you help?\""
+		],
+		"3qCCR7GI": [
+			"\"Ah.. Sure?\""
+		],
+		"FF2jdYCE": [
+			"\"How much is 7×5?\""
+		],
+		"70XLdwIs": [
+			"\"(Are you serious?)\""
+		],
+		"BniEh3Hz": [
+			"\"(Wait, no, not that.)\""
+		],
+		"dQMPy1Xx": [
+			"\"35.\""
+		],
+		"HlI3lVTj": [
+			"\"Oh, thanks, bro!\""
+		],
+		"iebMGW9Q": [
+			"\"Uhh... 3×9?\""
+		],
+		"H5eYjJSx": [
+			"\"27.\""
+		],
+		"9huNqz4N": [
+			"\"Yes, thanks again!\""
+		],
+		"A5q5o4rz": [
+			"\"And um.. 6×8?\""
+		],
+		"4qk4zZZP": [
+			"\"48.\""
+		],
+		"VU8EUiVS": [
+			"\"You're literally my savior.\""
+		],
+		"mp9Z1iZ9": [
+			"\"Okay, the rest I can do.\""
+		],
+		"zTy7HqBe": [
+			"\"Here, enjoy as a thank you.\""
+		],
+		"F2uMWgp4": [
+			"",
+			"Got the playing cards!"
+		],
+		"D6K20RQv": [
+			"\"Well? Ready to be outsmarted?\""
+		],
+		"l0ElnDzk": [
+			"\"Oh, don't be so confident, buddy.\""
+		],
+		"rIr0Gsak": [
+			"",
+			"You'll be playing THE BEST GAME IN EVERY BOY'S LIFE!!!"
+		],
+		"6FoaTkjP": [
+			"",
+			"For the first time!"
+		],
+		"k81OpIQb": [
+			"",
+			"But either way you don't want to waste time on it."
+		],
+		"lHdxRb53": [
+			"",
+			"So the rules are simple."
+		],
+		"XOZgAD0U": [
+			"",
+			"You have five cards and your friend has five cards."
+		],
+		"WOrQE7Zk": [
+			"",
+			"Pull one card per time and look who got the stronger one.",
+			"Or at least try to match."
+		],
+		"hU3LvjGV": [
+			"",
+			"Get 5 wins."
+		],
+		"tGwkrVZF": [
+			"",
+			"Oops, you lost!"
+		],
+		"SytbUyiM": [
+			"",
+			"Game over."
+		],
+		"re1FR3TG": [
+			"\"Wow, bro, didn't know you were that good!\""
+		],
+		"oXEVnSCr": [
+			"\"Heh, thanks!\""
+		],
+		"qO4wMgGe": [
+			"\"Sooo. You promised to help me with my sister.\""
+		],
+		"gEJ8TQ5S": [
+			"\"Yeah yeah, I know.\""
+		],
+		"pXmBAZQy": [
+			"\"Have you looked in the warehouse?\""
+		],
+		"kYfFq6Vr": [
+			"\"What?\""
+		],
+		"M04nkyI4": [
+			"\"Oh, yeah, didn't she claim to ",
+			"hang out there all the time?\""
+		],
+		"lhe8L5sy": [
+			"\"Exactly! So annoying.\""
+		],
+		"kCEsXD2Z": [
+			"\"I can only imagine what it's like for you.\""
+		],
+		"BWakzErf": [
+			"\"No no, it's.. Uh..\""
+		],
+		"lzpCzBzd": [
+			"\"Okay, I guess I should keep this option in mind.\""
+		],
+		"DD6YyobH": [
+			"\"Keep the option of backhanding her as well!\""
+		],
+		"KUhTtJAb": [
+			"\"Good luck with her, buddy!\""
+		],
+		"mWkQ8tAX": [
+			"\"Yeah... Yeah..\""
+		],
+		"aPIkEEWL": [
+			"\"Heh, told ya I'm a pro in this game!\""
+		],
+		"D8uUZBqI": [
+			"\"Yeeeeah, you totally smashed me.\""
+		],
+		"KhRfkaZF": [
+			"\"Will you help maybe?\""
+		],
+		"rowqDYsH": [
+			"\"Nope! Why would I?\""
+		],
+		"bDWj83br": [
+			"\"Uh, great.\""
+		],
+		"4lEE4nnW": [
+			"\"Um. Maybe you?\""
+		],
+		"7LeSUKsK": [
+			"\"Tch, Andrew, I'm busy!\""
+		],
+		"w802PmXn": [
+			"\"I just got concentrated!\""
+		],
+		"ByeUx2Pg": [
+			"\"(It's the easiest task I've ever seen,",
+			" what are you concentrating on?)\""
+		],
+		"LpWoKJPr": [
+			"\"*siiiigh....*\""
+		],
+		"HJjKM2T1": [
+			"\"Okay, great play, guys, I need to go...\""
+		],
+		"lU2N1SmK": [
+			"And there he goes."
+		],
+		"IeBUNzch": [
+			"You've been just walking around the weirdly looking ",
+			"school and shouting Leyley's name."
+		],
+		"lE6pfvIY": [
+			"Until you knew it was useless."
+		],
+		"gGhEZqXv": [
+			"What if the boys actually knew where she is?"
+		],
+		"dXEwrjkV": [
+			"Maybe if it's Nina, who makes up these nightmares,",
+			" people from there could give hints?"
+		],
+		"WMorVtV8": [
+			"\"Uuuuhh..\""
+		],
+		"hm3V5XE3": [
+			"\"What? Want to make a comeback?\""
+		],
+		"QrBz6VU4": [
+			"\"Well, I think my skills have gotten better since the last game.\""
+		],
+		"Uxdsr0cJ": [
+			"I need to know where she is."
+		],
+		"rwmh1Ukx": [
+			"This one wasn't so bad actually."
+		],
+		"CSjbQKPw": [
+			"You didn't even know it could be that fun back then."
+		],
+		"MoexhYBY": [
+			"But the mention of the warehouse leaves a bad taste...."
+		],
+		"34GbNEXU": [
+			"........................................"
+		],
+		"RvmqHCnI": [
+			"Everything you went through was screaming ",
+			"at you with clues where she might be..."
+		],
+		"0Nb5UFQR": [
+			"You haven't checked the most obvious one."
+		],
+		"AelssWaB": [
+			"Would you actually take the blame for it?"
+		],
+		"WgM3MDAO": [
+			"Would you come clean if she returned to life?"
+		],
+		"1yE0lt5q": [
+			"Was it really only Ashley, who was responsible?"
+		],
+		"Bzu9FXCG": [
+			"No."
+		],
+		"PxCpdwpk": [
+			"\"Did \\fi she \\fr\\c[8] deserve it?\""
+		],
+		"l6eOPcnA": [
+			"\"Come on, you \\fi did \\fr\\c[8] want her to die.\""
+		],
+		"EzaflIkI": [
+			"\"For everything she's put you through.\""
+		],
+		"Kf7fq7fb": [
+			"\"For being so difficult.\""
+		],
+		"9s8wPvhO": [
+			"\"And yes, she does deserve to die.\""
+		],
+		"rsBytKt5": [
+			"\"BUT SO DO YOU!\""
+		],
+		"FEc67yQC": [
+			"\" \\{ SHUT UP. \\} \""
+		],
+		"7uX5xFK7": [
+			"\"What do you want?\""
+		],
+		"G8Fs5VpP": [
+			"\"Why are you shoving me through this hellhole?\""
+		],
+		"W4Q4jTi2": [
+			"\"Why not kill me already?\""
+		],
+		"uBjdYj5V": [
+			"\" \\fi What do you want from me? \\fr\\c[1] \""
+		],
+		"pzuTbkUg": [
+			"\"I want to know why.\""
+		],
+		"ZvZGuuy5": [
+			"\"I had no choice.\""
+		],
+		"RSwW9N8D": [
+			"\"She would've made it worse.\""
+		],
+		"6IzMw5IB": [
+			"\"But I didn't mean it to go this far..\""
+		],
+		"G9K8WsPg": [
+			"\"Don't bother with your excuses.\""
+		],
+		"RngbKw0s": [
+			"\"I can see through you.\""
+		],
+		"9lzfhxIg": [
+			"\"Inaction is a crime too.\""
+		],
+		"IINn7sk3": [
+			"\"And you locked me up by yourself.\""
+		],
+		"DVosnrlA": [
+			"\"No matter how much you want to deny your fault.\""
+		],
+		"4Zhraakr": [
+			"\"No matter how bad Ashley was.\""
+		],
+		"d3vtnx8Q": [
+			"\"Even so, wasn't it too extreme",
+			"to kill her like that and show me?\""
+		],
+		"jlQI7FMj": [
+			"\"Extreme???\""
+		],
+		"1pONfOm7": [
+			"\"That was literally what you've done to me!\""
+		],
+		"t2IzZ3gj": [
+			"\"And at least this one wasn't real.\""
+		],
+		"MikJExV5": [
+			"\"Unlike the \\fi other \\fr\\c[8] one.\""
+		],
+		"d81HDpOz": [
+			"\"Don't you dare.\""
+		],
+		"80kOxi3Q": [
+			"\"You sure?\""
+		],
+		"eN5B1cDH": [
+			"\"I am.\""
+		], 
+		"WpRp2ffE": [
+			"\"You're threatening the dead, idiot.\""
+		],
+		"X4b5lQh0": [
+			"\"Don't even think about laying a finger on Ashley.\""
+		],
+		"bv0vw3Hu": [
+			"\"Andrew, I know you're a good brother,",
+			"but didn't \\fi you \\fr\\c[8] want her dead?!\""
+		],
+		"u1knf2Ic": [
+			"\"If I actually wanted it, ",
+			"she'd join me in death already.\""
+		],
+		"epvykYU9": [
+			"\". . . . . . . . . . . . . . .\""
+		],
+		"0lbKm7HH": [
+			"\"I know I was the one, who gave the idea to her.\""
+		],
+		"gC6MuJ9w": [
+			"\"And I'm the one, who didn't help you back then, ",
+			"locking you up instead.\""
+		],
+		"iplgj7V1": [
+			"\"And...\""
+		],
+		"o0FvU5wO": [
+			"\".........\""
+		],
+		"fOTfI5yv": [
+			"\"Why didn't you kill us right after your death?\""
+		],
+		"e7pBhADL": [
+			"\"I already said.",
+			"Quick. Isn't. Enough.\""
+		],
+		"kuoxI4PX": [
+			"\"So what? Now you plan to keep me in this place forever?\""
+		],
+		"Lp83nCWD": [
+			"\"IF I HAVE TO!\""
+		],
+		"C3Wg0oqj": [
+			"\"You left me dying, rotting and suffocating!\""
+		],
+		"28KzKHqI": [
+			"\"Just because I happened to have a....\""
+		],
+		"DO3momaE": [
+			"\"Ghhhh!\""
+		],
+		"AZSd805t": [
+			"\"Your sick sister and you deserve the worst.\""
+		],
+		"Fjhl8vTP": [
+			"\"If you think I'll spare any of you, you're wrong!\""
+		],
+		"D0tu71PR": [
+			"\"I hate both of you so much I!!--\""
+		], 
+		"l3vlZ6vO": [
+			"But suddenly her face grimaced in pure shock."
+		],
+		"gC6swo0V": [
+			"\".......................\""
+		],
+		"G9csa9Xb": [
+			"\". . . . .. .. . . .. . .. .\""
+		], 
+		"byN6xWK0": [
+			"\"I... Guess I don't have to keep this illusion anymore.\""
+		],
+		"5QGdetOi": [
+			"\"Illusion?\""
+		],
+		"LgoTcIl1": [
+			"\"Where do you think you are?\""
+		],
+		"LOVrMgJ1": [
+			"\"Um.. In my dream?\""
+		],
+		"Yi8YsHOq": [
+			"\"No. It would be too inconvenient.\""
+		], 
+		"ks5OrRl7": [
+			"\"Then...?\""
+		],
+		"BtfwyGT5": [
+			"\"A vision.\""
+		],
+		"jg5fGJq9": [
+			"\"I can manipulate your brain and show you ",
+			"visions, while you're here.\""
+		], 
+		"Ef4URs3i": [
+			"\"So that means..\""
+		],
+		"qvbAf8i7": [
+			"\"Yeah, it's a demon realm.\""
+		],
+		"jBf0kFhY": [
+			"\"And since you found out, ",
+			"there's no point in keeping this play-pretend.\""
+		],
+		"x8tjiubG": [
+			"\"Huh... Cozy.\""
+		], 
+		"Kdn837TX": [
+			"\"\\} \\fi Ugh, It's bad... \\fr\\c[8]\""
+		],
+		"1h2rYp1s": [
+			"\"\\} \\fi This is really really bad... \\fr\\c[8]\""
+		],
+		"IAIe8Fuo": [
+			"\"Uh?\""
+		], 
+		"txI5I3KP": [
+			"\"(What's wrong with her?)\""
+		],
+		"ull63BFo": [
+			"\"(Was that blood? Isn't she a ghost?)\""
+		],
+		"Y5yjP1xC": [
+			"\"(The only thing I know for sure now.)\""
+		],
+		"5ifJtS8j": [
+			"\"(All this crap is happening because of me.)\""
+		], 
+		"X9T4HomA": [
+			"\"(I'm the one who hid the corpse.)\""
+		],
+		"Z72rimTQ": [
+			"\"(I'm the one who kept Ashley silent.)\""
+		],
+		"sgCaX0Tm": [
+			"\"(And I'm the one, who faces consequences right now.)\""
+		], 
+		"hrfYQ0zQ": [
+			"\"(That was really all \\fi my \\fr\\c[1] fault.)\""
+		],
+		"1iuZDN0I": [
+			"\"(And they didn't wait for me again.)\""
+		],
+		"CQY7u6fH": [
+			"\"(What's even the point in their friendship,",
+			"if they can't do the bare minimum???)\""
+		],
+		"ty3nkog9": [
+			"\"Hey nooooo!\""
+		],
+		"xZm7wNxi": [
+			"\"(Huh?)\""
+		],
+		"GVlTVLZe": [
+			"\"It's so embarassing!!\""
+		],
+		"qbtlUKla": [
+			"\"Come on, why not!\""
+		],
+		"YUNjW2VS": [
+			"\"Ask him out!\""
+		],
+		"jzsHPO6a": [
+			"\"But what if he says no?\""
+		],
+		"BAdWtuTq": [
+			"\"You won't know if you don't try!\""
+		],
+		"NvGUuPCl": [
+			"\"Andrew's a cute guy, so it'll worth it!\""
+		],
+		"QlGneGj2": [
+			"\"(Andrew?!)\""
+		],
+		"Hyh3aOj7": [
+			"\"(Are they talking about \\fi my \\fr\\c[2] Andy???)\""
+		],
+		"21OuEDkF": [
+			"\"I don't knooooow...\""
+		],
+		"BlDzP1HO": [
+			"\"I don't think I'm ready for that..\""
+		],
+		"IPX2ZX3m": [
+			"\"It's okay, you can always ask later.\""
+		],
+		"cLIl6n8M": [
+			"\"I'll go then. Bye, Julia!\""
+		],
+		"zXuXwF9D": [
+			"\"Bye bye!\""
+		],
+		"PaAr7vyW": [
+			"\"So this is what their 'friendship' is?!\""
+		],
+		"kvKekjze": [
+			"\"Backstabbing and lying!\""
+		],
+		"y9i1YTiv": [
+			"\"Brother stealing bitch!!!\""
+		],
+		"qGFkfacD": [
+			"You want to break something, but if you do",
+			"Andy will totally be mad."
+		],
+		"JCZqoxRZ": [
+			"Your stupid brain already pictures disgusting scenes,",
+			"where your so-called 'friend' is making out with YOUR Andy."
+		],
+		"TVQ9RUfz": [
+			"Gross!!!"
+		],
+		"y9Jaeopu": [
+			"Okay okay. You need a plan."
+		],
+		"eJRySqj5": [
+			"To make her understand what a good friend should be!"
+		],
+		"2eVNoGxu": [
+			"A veeeeeeeery good plan."
+		],
+		"8rAJ6C98": [
+			"\"Hm... What if I..\""
+		],
+		"0LRdp1W8": [
+			"\"That'd work, wouldn't it?\""
+		],
+		"dC34UqTV": [
+			"Yes, it worked."
+		],
+		"8Pci77eV": [
+			"But now you're stuck with thoughts like this."
+		],
+		"8YUzycOZ": [
+			"Heeeeeeeeeeeeey!"
+		],
+		"qgPeA9aA": [
+			"Not the update y'all expected I suppose,",
+			"But it was very important for me."
+		],
+		"PlDf51qK": [
+			"I wasn't fully satisfied with some stuff",
+			"so this update should've fixed everything I wanted."
+		],
+		"OEVcgvQQ": [
+			"Ooh, and we added ACHIEVEMENTS!!!!!"
+		],
+		"avOrGRCN": [
+			"Collect them all, there is a secret one!"
+		],
+		"YMlNz5fg": [
+			"So yeah, thanks for all your interest and support!"
+		],
+		"AoO2jffJ": [
+			"I plan to move on to my own games",
+			"and I'm writing one currently."
+		],
+		"yf9tsS4L": [
+			"What does it mean for this mod?",
+			"Practically nothing."
+		],
+		"IyLjFn7l": [
+			"I'll get back to writing 2 ep, which is written in 50%."
+		],
+		"Cu3Zsm51": [
+			"And I'm set on finishing it, so don't worry."
+		],
+		"F2RC2Z5r": [
+			"Special thanks to everyone in the picture",
+			"and of course to the players."
+		],
+		"VDLypGph": [
+			"Never thought my mod would find ",
+			"so much love in the community."
+		],
+		"USGY9kyP": [
+			"Welp, I finished the yap, hope you liked the update!",
+			"Also, check the Vision room, if you haven't!"
+		],
+		"uOj27eBc": [
+			"If you found any problem/bug/mistake, you can message me."
+		],
+		"H4hLokCx": [
+			"Now bye-bye!"
+		],
 		"GO2D7eyu": [
 			"\"Leyley, are you here??\""
 		], 
@@ -3721,10 +4980,10 @@ LANGDATA{
 			"No time for coffee."
 		], 
 		"m86TpFkM": [
-			"Some idiot doesn't know how to park a car."
+			"A regular classroom."
 		],
 		"uLJW2dSo": [
-			"You'd kill if someone bumped into you."
+			"Something's happening..."
 		],
 		"8bXCXt1N": [
 			"Whose skull could it be?"
@@ -3742,7 +5001,7 @@ LANGDATA{
 			"You don't wanna go back."
 		],
 		"uZ0di4gZ": [
-			"It's so empty here, it's unlikely there'll be any buses."
+			"It's pretty empty here, there'll unlikely be any buses."
 		], 
 		"INvo8Y1x": [
 			"You seriously think she would be here?"
@@ -3827,14 +5086,8 @@ LANGDATA{
 		"2BUwSr69": [
 			"Counts as inheritance."
 		],
-		"4qtvU9kc": [
-			"There's literally nowhere to hide!"
-		],
-		"Sc9LNSh2": [
-			"You want to rest...."
-		],
 		"biciH7zI": [
-			"You seek her everywhere you could."
+			"You seek for her everywhere you could."
 		], 
 		"U1gWQWca": [
 			"And yet there's nothing."
@@ -3894,195 +5147,20 @@ LANGDATA{
 		"oN36tmLW": [
 			"And open the crate."
 		],
+		"KlqlrHgK": [
+			"Wait...."
+		],
+		"56asyNui": [
+			"Why are you... It's..."
+		],
 		"9Iyexe7S": [
-			"\"Is it.....\""
+			"\"It isn't.....\""
 		],
 		"v7q0yCRw": [
-			"\"It's not real.\""
+			"\"It can't be real.\""
 		], 
 		"cL0xAlkD": [
-			"\"Tables are turned now I guess.\""
-		],
-		"d3vtnx8Q": [
-			"\"That wasn't necessary, you know.\""
-		],
-		"jlQI7FMj": [
-			"\"Why? Didn't \\fi you \\fr\\c[8] want her to die?\""
-		], 
-		"AZSd805t": [
-			"\"I did, but that's not the reason for you ",
-			"to bring me through this hellhole.\""
-		],
-		"2iM7lZAC": [
-			"\"And it was too extreme.\""
-		],
-		"kuoxI4PX": [
-			"\"Extreme, huh?\""
-		], 
-		"1pONfOm7": [
-			"\"That was simply what you've done to me.\""
-		],
-		"t2IzZ3gj": [
-			"\"And at least she's not real.\""
-		],
-		"MikJExV5": [
-			"\"Unlike the \\fi other \\fr\\c[8] one.\""
-		], 
-		"d81HDpOz": [
-			"\"Don't you dare.\""
-		],
-		"80kOxi3Q": [
-			"\"You sure?\""
-		],
-		"eN5B1cDH": [
-			"\"I am.\""
-		], 
-		"WpRp2ffE": [
-			"\"You're threatening the dead, idiot.\""
-		],
-		"X4b5lQh0": [
-			"\"Don't even lay your finger on Ashley.\""
-		],
-		"bv0vw3Hu": [
-			"\"We'll see eventually.\""
-		], 
-		"u1knf2Ic": [
-			"\"No, we won't.\""
-		],
-		"epvykYU9": [
-			"\"I got it, you want revenge.\""
-		],
-		"0lbKm7HH": [
-			"\"It was my idea, I was the one ",
-			"who decided to lock you up.\""
-		], 
-		"gC6MuJ9w": [
-			"\"It was me, who put that stick in your coffin.\""
-		],
-		"iplgj7V1": [
-			"\"If you want to have revenge, fine, ",
-			"but don't hurt her.\""
-		],
-		"o0FvU5wO": [
-			"\"(She'll join me anyway.)\""
-		],
-		"RgLUimt2": [
-			"\"Don't pretend I don't remember how she ",
-			"was trying to force you to do it.\""
-		], 
-		"uv3gRyB9": [
-			"\"\\fi I \\fr\\c[1] was the one who gave the idea to her.\""
-		],
-		"zIPSY38d": [
-			"\"Fuck, why am I.... Ughhh.\""
-		],
-		"fOTfI5yv": [
-			"\"Why have you even waited for so long? ",
-			"Why didn't kill me right after your death?\""
-		], 
-		"e7pBhADL": [
-			"\"Why are you forcing me to go through all this?\""
-		],
-		"Lp83nCWD": [
-			"\"Because that's what you deserve!!!\""
-		],
-		"9oQAJ202": [
-			"\". . . . . . .\""
-		], 
-		"C3Wg0oqj": [
-			"\"You left me dying, rotting and suffocating there.\""
-		],
-		"28KzKHqI": [
-			"\"Just because I happened to have a....\""
-		],
-		"DO3momaE": [
-			"\"Ghhhh!\""
-		],
-		"Fjhl8vTP": [
-			"\"If you think I'll spare any of you, you're wrong!\""
-		],
-		"D0tu71PR": [
-			"\"I hate both of you so much I!!--\""
-		], 
-		"l3vlZ6vO": [
-			"But suddenly her face grimaced in pure shock."
-		],
-		"gC6swo0V": [
-			"\".......................\""
-		],
-		"G9csa9Xb": [
-			"\". . . . .. .. . . .. . .. .\""
-		], 
-		"byN6xWK0": [
-			"\"I... Guess I don't have to keep this illusion anymore.\""
-		],
-		"5QGdetOi": [
-			"\"Illusion?\""
-		],
-		"LgoTcIl1": [
-			"\"Where do you think you are?\""
-		],
-		"LOVrMgJ1": [
-			"\"Um.. In my dream?\""
-		],
-		"Yi8YsHOq": [
-			"\"Nope. It would be too inconvenient.\""
-		], 
-		"ks5OrRl7": [
-			"\"Then...?\""
-		],
-		"BtfwyGT5": [
-			"\"A vision.\""
-		],
-		"jg5fGJq9": [
-			"\"I can manipulate your brain and show you ",
-			"visions, while you're here.\""
-		], 
-		"Ef4URs3i": [
-			"\"So that means.\""
-		],
-		"qvbAf8i7": [
-			"\"Yeah, it's a demon realm.\""
-		],
-		"jBf0kFhY": [
-			"\"And since you understood it, ",
-			"no point in keeping this play-pretend.\""
-		],
-		"x8tjiubG": [
-			"\"Huh... Cozy.\""
-		], 
-		"Kdn837TX": [
-			"\"\\} \\fi Ugh, It's bad... \\fr\\c[8]\""
-		],
-		"1h2rYp1s": [
-			"\"\\} \\fi This is really really bad... \\fr\\c[8]\""
-		],
-		"IAIe8Fuo": [
-			"\"Uh?\""
-		], 
-		"txI5I3KP": [
-			"\"(What's wrong with her?)\""
-		],
-		"ull63BFo": [
-			"\"(Was that blood? Isn't she a ghost?)\""
-		],
-		"Y5yjP1xC": [
-			"\"(The only thing I know for sure now.)\""
-		],
-		"5ifJtS8j": [
-			"\"(All this crap is happening because of me.)\""
-		], 
-		"X9T4HomA": [
-			"\"(I'm the one who hid the corpse.)\""
-		],
-		"Z72rimTQ": [
-			"\"(I'm the one who kept Ashley shut.)\""
-		],
-		"sgCaX0Tm": [
-			"\"(And I'm the one, who faces consequences right now.)\""
-		], 
-		"hrfYQ0zQ": [
-			"\"(That was really all \\fi my \\fr\\c[1] fault.)\""
+			"\"Tables are turned now.\""
 		],
 		"mFfwWttv": [
 			"You are Ashley!"
@@ -4303,7 +5381,7 @@ LANGDATA{
 			"\"WhAt Is ThE rEaSoN?\""
 		],
 		"qMED028M": [
-			"\"Psychotic pills or some shit.\""
+			"\"Psychotics or some shit.\""
 		], 
 		"z8XhL5Tj": [
 			"\"I mean, isn't he into smoking?\""
@@ -4351,7 +5429,7 @@ LANGDATA{
 			"\"It's really not \\fi your \\fr\\c[2] doing, right??\""
 		], 
 		"Bs3Z6yra": [
-			"\"I hAvE nO iNtErEsT iN yOuR bRoThEr NoW. It Is NoT mE.\""
+			"\"I hAvE nO iNtErEsT iN yOuR bRoThEr YeT. It Is NoT mE.\""
 		],
 		"5aPh9ukW": [
 			"\"But who else could've left this mark.\""
@@ -4431,7 +5509,7 @@ LANGDATA{
 			"\"YoU cAn UsE yOuR gIfT aS pRoTeCtIoN.\""
 		], 
 		"uuOdo5U7": [
-			"\"I sHaLL tAkE yOu tO tHe DeMoN rEaLm.\""
+			"\"I sHaLL tAkE yOu tO tHe rEaLm InBeTwEeN.\""
 		],
 		"OE6uGOtU": [
 			"\"Then what are you waiting for?\""
@@ -4495,7 +5573,7 @@ LANGDATA{
 			"\"YoU cAn SeArCh FoR tHe BrOtHeR.\""
 		],
 		"54ktdTEm": [
-			"\"And where the fuck I should go?\""
+			"\"And where the fuck should I go?\""
 		],
 		"kHCLQaM1": [
 			"\"Didn't you say you can't go to the realm he's in?\""
@@ -4519,8 +5597,8 @@ LANGDATA{
 			"\"YoU cAn FiGuRe It OuT eVeNtUaLlY.\""
 		], 
 		"BGETOkD5": [
-			"\"With that said the entity disappears ",
-			"before you have a chance to whine again.\""
+			"With that said the entity disappears ",
+			"before you have a chance to whine again."
 		],
 		"PQbQt4zA": [
 			"\"Okay. At least now I can try to find him...\""
@@ -4594,7 +5672,7 @@ LANGDATA{
 			"\"Or that joke I made when he said about...\""
 		],
 		"H79deqHk": [
-			"\"When he said about oath.\""
+			"\"When he said about the oath.\""
 		],
 		"Nzn7h1Mr": [
 			"\"Why would he even mention it?\""
@@ -4793,13 +5871,15 @@ LANGDATA{
 			"\"But hey, you said Andy was stolen by a spirit.\""
 		],
 		"Tf0f0A2D": [
-			"\"Are spirits even real? Maybe it actually was one of the demons?\""
+			"\"Are spirits even real? ",
+			"Maybe it actually was one of the demons?\""
 		],
 		"9ITsOJUs": [
 			"\"Like, maybe the one, who has a cult around it?\""
 		],
 		"6CL3lhAZ": [
-			"\"No, I sAiD It WaS nOt An EnTiTy, WhO tOoK yOuR bRoThEr.\""
+			"\"No, I sAiD It WaS nOt An EnTiTy,",
+			" WhO tOoK yOuR bRoThEr.\""
 		],
 		"dfy9ZBvd": [
 			"\"BuT tHaT sPiRiT cAn Be TiEd To OnE oF tHe EnTiTiEs.\""
@@ -4808,7 +5888,8 @@ LANGDATA{
 			"\"Quit speaking in quizzes. I don't understand.\""
 		],
 		"c2FkePt8": [
-			"\"ThE sPiRiT hAs sOmEtHiNg To Do WiTh YoU aNd ThE bRoThEr.\""
+			"\"ThE sPiRiT hAs sOmEtHiNg To Do",
+			" WiTh YoU aNd ThE bRoThEr.\""
 		],
 		"1c9LgvKE": [
 			"\"BuT yOu ArE pRoTeCtEd By My GiFt.\""
@@ -5163,8 +6244,12 @@ LANGDATA{
 			"\"I think I shouldn't have given her the ",
 			"idea in the first place.\""
 		],
+		"O6dSwdNY": [
+			"\"Like.. Putting you in the crate was hers,",
+			"but I still gave her the wooden stick.\""
+		],
 		"Hy3Z32vc": [
-			"She definitely didn't feel sorry."
+			"Ashley definitely didn't feel sorry."
 		],
 		"eR3t4SY2": [
 			"But the last thing you want is this demon to go after her."
@@ -5192,10 +6277,21 @@ LANGDATA{
 			"\"She’s even more.. You were too nice for this.\""
 		],
 		"s7aS18VS": [
-			"\"Ugh. You're so edgy.\""
+			"\"Wasn't it you, who made the whole nightmare",
+			"about me being at fault?\""
+		],
+		"xd1Nvfyg": [
+			"\"Because you thought you have nothing to do with it.\""
+		],
+		"8J6ujRAu": [
+			"\"I-- Okay, maybe..\""
+		],
+		"13tTDfS2": [
+			"\"I don't know what's got to me.",
+			" I still blame you, but..\""
 		],
 		"0rFl02Rs": [
-			"\"And when do I start suffering?\""
+			"\"And when do I start suffering for it?\""
 		],
 		"5pn0NHm8": [
 			"\"....When I stop feeling bad.\""
@@ -5213,10 +6309,15 @@ LANGDATA{
 			"\"You look... Older. And these flowers.\""
 		],
 		"s4pC9vv7": [
-			"\"I can change appearance.\""
+			"\"I can change my appearance.\""
+		],
+		"mRs1IiE3": [
+			"\"Since I'm just a soul, I can make",
+			"you see me the way I want.\""
 		],
 		"I15gezE8": [
-			"\"I just think I'd look like this if I grew older.\""
+			"\"And this is just what I think ",
+			"I'd look like this if I grew older.\""
 		],
 		"V0oAc2M3": [
 			"\"And the flowers?\""
@@ -5323,7 +6424,7 @@ LANGDATA{
 			"\"But you just...\""
 		],
 		"uv3e21wa": [
-			"\"You just locked me in!\""
+			"\"You just locked me up!\""
 		],
 		"y3vW46DF": [
 			"\"...\""
@@ -5335,7 +6436,7 @@ LANGDATA{
 			"\"I just. *sniff* Can't even look at you!\""
 		],
 		"Qbw0yC25": [
-			"\"You're not the Andrew I knew.\""
+			"\"You're not Andrew I knew.\""
 		],
 		"g3rsGA85": [
 			"\"You're a killer.\""
@@ -5366,8 +6467,8 @@ LANGDATA{
 			"\"If I could turn back time, I would never do that.\""
 		],
 		"Nr40Ob0N": [
-			"\"Maybe Leyley would be mad at me, but I at ",
-			"least could avoid this.\""
+			"\"Maybe Leyley would be mad at me, but at ",
+			"least I could've avoided this.\""
 		],
 		"7Pc7KeS7": [
 			"\"Feels like a whole mind-fucking..\""
@@ -5440,25 +6541,6 @@ LANGDATA{
 		"24p0pSEf": [
 			"\"A little bit of patience, beloved.",
 			"I'll come back.\""
-		],
-		"9Bk2G2PV": [
-			"The end of the 1 episode!!!!!!!!!!!"
-		],
-		"k7brjN70": [
-			"There'll luckily be the second one."
-		],
-		"TG995tgf": [
-			"Mod is made by one person, so I hope you enjoyed."
-		],
-		"1RUF94Rf": [
-			"Also there's a vision room,",
-			"in case you didn't know."
-		],
-		"tdm4Vp60": [
-			"Check the milk to be sure."
-		],
-		"1K77AhKN": [
-			"Anyway, thanks for playing!"
 		],
 		"7Ktnv80o": [
 			"Wanna save?"
@@ -5934,7 +7016,7 @@ LANGDATA{
 			"\".............................\""
 		],
 		"1ct08pbD": [
-			"\"How can I help you?\""
+			"\"Can I help you?\""
 		],
 		"8kmyYV86": [
 			"\"Hah?\""
@@ -5959,7 +7041,7 @@ LANGDATA{
 		],
 		"4w73CtUh": [
 			"\"These are working specifically on the brain. ",
-			"Good when you're a pathetic traumatized bitch.\""
+			"Good when you're a pathetic traumatized loser.\""
 		],
 		"6z33YeAB": [
 			"\"So um.. Like narcotics?\""
@@ -6001,7 +7083,7 @@ LANGDATA{
 			"\"Why do you even need him!\""
 		],
 		"T9PHF5K6": [
-			"\"YoU cAn LoSe HiM.\""
+			"\"YoU cAn LoOSe HiM.\""
 		],
 		"HiLF6z21": [
 			"\"I cAn NoT sEe ThE rEaSoN.\""
@@ -6029,7 +7111,7 @@ LANGDATA{
 			"\"ThAt Is FoR yOuR gOoD, TaR sOuL.\""
 		],
 		"3X7PEwL4": [
-			"\"(Motherfucker didn't even give me answers.)\""
+			"\"(Motherfucker didn't even give me any answer.)\""
 		],
 		"qg9O7sb2": [
 			"\"You're buying, no?\""
@@ -6062,6 +7144,90 @@ LANGDATA{
 		],
 		"FyHGBS67": [
 			"You don't have enough money."
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
+		],
+		"": [
+			"\"\""
 		],
 		"": [
 			"\"\""
@@ -6103,7 +7269,7 @@ LANGDATA{
 			"A good way to catch an overdose."
 		],
 		"Detergent": [
-			"Don't even try to poison yourself with it."
+			"Don't even try to drink it."
 		],
 		"Mop": [
 			"What a greeeeeeat mop."
@@ -6152,6 +7318,21 @@ LANGDATA{
 		],
 		"RedMark": [
 			"Like blood."
+		],
+		"Dishes": [
+			""
+		],
+		"Cup": [
+			"It's filled with hot water. Careful!"
+		],
+		"Tea": [
+			"You actually spat in it."
+		],
+		"Teathing": [
+			"Cheap tea and saved from Leyley sugar."
+		],
+		"Rag": [
+			""
 		],
 		"Plastic bags": [
 			""

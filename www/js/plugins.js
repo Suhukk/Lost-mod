@@ -20,5 +20,7 @@ var $plugins =
 {"name":"AudioStreaming","status":true,"description":"Load audio faster and use only ogg files.","parameters":{"mode":"10","deleteM4a":"false"}},
 {"name":"stbvorbis_stream","status":false,"description":"","parameters":{}},
 {"name":"stbvorbis_stream_asm","status":false,"description":"","parameters":{}},
-{"name":"GameCode","status":true,"description":"","parameters":{}}
+{"name":"GameCode","status":true,"description":"","parameters":{}},
+{"name":"Achievements","status":true,"description":"Simple Achievements MV - AppData-based persistence","parameters":{"Popup SE Name":"achievement","Popup SE Volume":"90","Popup SE Pitch":"","Popup Icon":"ach_popup_icon","Achievement File Name":"achievements.json"}},
+{"name":"HIME_SaveTitle","status":true,"description":"v1.2 - allows you to customize the title of the game that is\r\ndisplayed in the save file.","parameters":{}}
 ];
