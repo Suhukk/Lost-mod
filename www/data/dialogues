@@ -4899,18 +4899,6 @@ LANGDATA{
 		"FvAxN8kV": [
 			"\"Ughhh, I hate all this...\""
 		],
-		"Ll167l82": [
-			"You check under the car. There's no Leyley."
-		],
-		"N6GOO3iE": [
-			"Nothing."
-		],
-		"j0o7nMCA": [
-			"\"Guess she's not here.\""
-		], 
-		"1JgrrIYg": [
-			"\"Dammit, why does she need to be so difficult???\""
-		],
 		"J05omV4v": [
 			"Nothing can be seen..."
 		],
@@ -4932,7 +4920,6 @@ LANGDATA{
 		"ls9a4dVj": [
 			"\"(Huh? Oh, there's nobody.)\""
 		],
-
 		"lmOUnlB9": [
 			"A weird demonic book, opened on a random page."
 		],
@@ -4949,7 +4936,7 @@ LANGDATA{
 			"'Possessed corpses contain restless souls or evil demons.'"
 		],
 		"BD1hBkDi": [
-			"'They can cause problems to the living and warden around.'"
+			"'They can cause problems to the living and wander around.'"
 		], 
 		"yKnO3h3y": [
 			"'To exorcise the demon from the body, you shall ",
@@ -4967,7 +4954,7 @@ LANGDATA{
 		],
 		"jOy07eaY": [
 			"This information sounds like some zombie fiction ",
-			"crap, you tried to read on quarantine."
+			"crap, you tried to read during the quarantine."
 		], 
 		"d6rSB80N": [
 			"But you're dealing with a walking dead, so it may work."
