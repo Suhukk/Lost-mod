@@ -2,7 +2,7 @@
 // main.js
 //=============================================================================
 
-const GAME_VERSION = "3.0.11";
+const GAME_VERSION = "1.2.8";
 
 PluginManager.setup($plugins);
 
